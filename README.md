@@ -12,10 +12,12 @@ Currently, I am focused on learning <img src="https://github.com/eltonbautista/e
 2022 Goal: Land a job in development and start my career in Tech!
 
 # Technologies and Tools:
-<img src="https://github.com/eltonbautista/eltonbautista/blob/main/icons8-javascript.gif" width="50px" height="50px" /> <img src="https://img.icons8.com/color/50/000000/css3.png"/> <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/> <img src="https://img.icons8.com/officel/50/000000/react.png"/> <img src="https://img.icons8.com/color/50/000000/npm.png"/> 
+<img src="https://github.com/eltonbautista/eltonbautista/blob/main/icons8-javascript.gif" width="50px" height="50px" /> <img src="https://img.icons8.com/color/50/000000/css3.png"/> <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/> <img src="https://img.icons8.com/officel/50/000000/react.png"/> <img src="https://img.icons8.com/color/50/000000/npm.png"/> <img src="https://github.com/eltonbautista/eltonbautista/blob/main/jest-icon.png" width="50px" height="50px" />
 
+# Stats:
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonbautista&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eltonbautista)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
