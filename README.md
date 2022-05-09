@@ -5,9 +5,9 @@
 
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/000000/external-psychology-market-research-flaticons-flat-flat-icons.png"/> I graduated university with a BSc. in Psychology and have a great interest in all things related to how people think, and act. My main focus in my studies were interpersonal relationships and industrial/organizational psychology. 
 
-<img src="https://img.icons8.com/plasticine/50/000000/reading.png"/> When I'm not reading docs, stackoverflow(s), watching tutorials, or writing code, I like to spend my time <img src="https://img.icons8.com/external-kosonicon-flat-kosonicon/40/000000/external-cycling-hobbies-kosonicon-flat-kosonicon.png"/>, <img src="https://img.icons8.com/color/40/000000/climber.png"/>, <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/40/000000/external-reading-school-and-learning-flatart-icons-outline-flatarticons.png"/>, or <img src="https://img.icons8.com/emoji/40/000000/video-game-emoji.png"/>. 
+<img src="https://img.icons8.com/plasticine/50/000000/reading.png"/> When I'm not reading docs, stackoverflow(s), watching tutorials, or writing code, I like to spend my time <img src="https://img.icons8.com/external-kosonicon-flat-kosonicon/40/000000/external-cycling-hobbies-kosonicon-flat-kosonicon.png"/> | <img src="https://img.icons8.com/color/40/000000/climber.png"/> | <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/40/000000/external-reading-school-and-learning-flatart-icons-outline-flatarticons.png"/> || <img src="https://img.icons8.com/emoji/40/000000/video-game-emoji.png"/>. 
 
-Currently, I am focused on learning <img src="https://github.com/eltonbautista/eltonbautista/blob/main/icons8-javascript.gif" width="30px" height="30px" /> and technologies related it.
+Currently, I am focused on learning <img src="https://github.com/eltonbautista/eltonbautista/blob/main/icons8-javascript.gif" width="30px" height="30px" /> and technologies related to it.
 
 2022 Goal: Land a job in development and start my career in Tech!
 
