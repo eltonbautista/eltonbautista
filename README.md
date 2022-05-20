@@ -20,7 +20,7 @@ Currently, I am focused on learning <img src="https://github.com/eltonbautista/e
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonbautista&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eltonbautista)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eltonbautista&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
