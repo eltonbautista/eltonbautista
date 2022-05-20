@@ -16,7 +16,10 @@ Currently, I am focused on learning <img src="https://github.com/eltonbautista/e
 
 # <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/50/000000/external-statistics-network-technology-itim2101-lineal-color-itim2101.png"/> Stats:
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonbautista&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eltonbautista)](https://github.com/anuraghazra/github-readme-stats)
 
 
