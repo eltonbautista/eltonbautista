@@ -37,8 +37,12 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eltonbautista&label=Profile%20views&color=3C005A&style=for-the-badge&logo=profile&logoColor=white_" alt="lizx-i" /> </p>
- 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eltonbautista&v=2)](https://github.com/anuraghazra/github-readme-stats)
- 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eltonbautista&v=2" height=250 >
+  
+</p>
+
+
+  
 <!--
 **eltonbautista/eltonbautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
