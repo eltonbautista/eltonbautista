@@ -1,41 +1,44 @@
- # <img src="https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png"/> Hi there!
+### Hi there 👋
+- 🔭 My name is Elton and I am an aspiring Full-Stack Developer who is passionate about learning new technologies and developing my skillset.
+- 🙆‍ I graduated university with a BSc. in Psychology and have a great interest in all things related to how people think, and act. My main focus in my studies were interpersonal relationships and industrial/organizational psychology.
+- 💻 I'm an aspiring Full-Stack Developer!
+- 🌱 I’m currently learning Typescript, ReactJS, and NodeJS!
+- 🌐 You can see my some of my projects on [my portfolio](https://github.com/eltonbautista?tab=repositories)
+- 📫 How to reach me: [@psychtotech](https://twitter.com/psychtotech)
 
-### <img src="https://img.icons8.com/external-outline-juicy-fish/40/000000/external-self-human-figures-outline-outline-juicy-fish.png"/> About Me:
-**My name is Elton and I am an aspiring Full-Stack Developer who is passionate about learning new technologies and developing my skillset.**
+<h2 align="left"><img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/50/000000/external-statistics-network-technology-itim2101-lineal-color-itim2101.png" height=30px> Metrics & Analytics</h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eltonbautista&hide_border=true&background=FFFFFF00&fire=3C005A&currStreakLabel=3C005A&ring=3C005A&currStreakNum=3C005A&sideNums=3C005A&sideLabels=3C005A&dates=999c9e&stroke=3C005A">
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=eltonbautista&bg_color=FFFFFF00&hide_border=true&text_color=3C005A&title_color=3C005A&include_all_commits=true&count_private=true">
+</table>
+</div>
+<img src="https://activity-graph.herokuapp.com/graph?username=eltonbautista&bg_color=FFFFFF00&color=3C005A&line=3C005A&point=999c9e&hide_border=true&title_color=">
+  
+  
+<h2 align="left"><img src="https://github.com/eltonbautista/eltonbautista/blob/main/icons8-javascript.gif" height=40px width=40px>Technical Skills</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-3C005A?style=for-the-badge&logo=html5&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/CSS3-3C005A?style=for-the-badge&logo=css3&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/JavaScript-3C005A?style=for-the-badge&logo=javascript&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Typescript-3C005A?style=for-the-badge&logo=typescript&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Firebase-3C005A?style=for-the-badge&logo=firebase&logoColor=white" height=30>
+<!-- <img src="https://img.shields.io/badge/MongoDB-3C005A?style=for-the-badge&logo=mongodb&logoColor=white" height=30> -->
+<!-- <img src="https://img.shields.io/badge/Express.js-3C005A?style=for-the-badge&logo=express&logoColor=white" height=30> -->
+<img src="https://img.shields.io/badge/React.js-3C005A?style=for-the-badge&logo=react&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Jest-3C005A?style=for-the-badge&logo=jest&logoColor=white" height=30>
+ <img src="https://img.shields.io/badge/npm-3C005A?style=for-the-badge&logo=npm&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Node.js-3C005A?style=for-the-badge&logo=nodedotjs&logoColor=white" height=30>
+<!-- <img src="https://img.shields.io/badge/GIT-3C005A?style=for-the-badge&logo=git&logoColor=white" height=30> -->
+</p>
 
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/000000/external-psychology-market-research-flaticons-flat-flat-icons.png"/> I graduated university with a BSc. in Psychology and have a great interest in all things related to how people think, and act. My main focus in my studies were interpersonal relationships and industrial/organizational psychology. 
-
-<img src="https://img.icons8.com/plasticine/50/000000/reading.png"/> When I'm not reading docs, stackoverflow(s), watching tutorials, or writing code, I like to spend my time <img src="https://img.icons8.com/external-kosonicon-flat-kosonicon/40/000000/external-cycling-hobbies-kosonicon-flat-kosonicon.png"/> | <img src="https://img.icons8.com/color/40/000000/climber.png"/> | <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/40/000000/external-reading-school-and-learning-flatart-icons-outline-flatarticons.png"/> || <img src="https://img.icons8.com/emoji/40/000000/video-game-emoji.png"/>. 
-
-Currently, I am focused on learning <img src="https://github.com/eltonbautista/eltonbautista/blob/main/icons8-javascript.gif" width="30px" height="30px" /> and technologies related to it.
-
-2022 Goal: Land a job in development and start my career in Tech!
-
-# <img src="https://img.icons8.com/clouds/80/000000/technology.png"/> Technologies and Tools:
-<img src="https://github.com/eltonbautista/eltonbautista/blob/main/icons8-javascript.gif" width="50px" height="50px" /> <img src="https://img.icons8.com/color/50/000000/css3.png"/> <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/> <img src="https://img.icons8.com/officel/50/000000/react.png"/> <img src="https://img.icons8.com/color/50/000000/npm.png"/> <img src="https://github.com/eltonbautista/eltonbautista/blob/main/jest-icon.png" width="50px" height="50px" />
-
-# <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/50/000000/external-statistics-network-technology-itim2101-lineal-color-itim2101.png"/> Stats:
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonbautista&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eltonbautista&label=Profile%20views&color=3C005A&style=for-the-badge&logo=profile&logoColor=white_" alt="lizx-i" /> </p>
+ 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eltonbautista&v=2)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+<!--
+**eltonbautista/eltonbautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
