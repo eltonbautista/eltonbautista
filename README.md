@@ -4,7 +4,7 @@
 - 💻 I'm an aspiring Full-Stack Developer!
 - 🌱 I’m currently learning Typescript, ReactJS, and NodeJS!
 - 🌐 You can see my some of my projects on [my portfolio](https://github.com/eltonbautista?tab=repositories)
-- 📫 How to reach me: [@psychtotech](https://twitter.com/psychtotech)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elton-bautista-496a011ab/) **||** [@PsychToTech](https://twitter.com/psychtotech)
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Metrics & Analysis</h2>
 <div align="center">
