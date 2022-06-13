@@ -134,12 +134,13 @@
    </tr>
 </table>
 
+
 <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Metrics & Analysis</h2>
 <div align="center">
 <table>
 <tr>
 <td width="50%">
-<img src="https://eltonbautista.github.io/odin-restaurant-page/?user=eltonbautista&hide_border=true&background=FFFFFF00&fire=3C005A&currStreakLabel=3C005A&ring=3C005A&currStreakNum=3C005A&sideNums=3C005A&sideLabels=3C005A&dates=999c9e&stroke=3C005A">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eltonbautista&hide_border=true&background=FFFFFF00&fire=3C005A&currStreakLabel=3C005A&ring=3C005A&currStreakNum=3C005A&sideNums=3C005A&sideLabels=3C005A&dates=999c9e&stroke=3C005A">
 </td>
 <td width="50%">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=eltonbautista&bg_color=FFFFFF00&hide_border=true&text_color=3C005A&title_color=3C005A&include_all_commits=true&count_private=true">
