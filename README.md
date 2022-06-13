@@ -33,7 +33,7 @@
    <td width="50%">
       <h3 align="center" color="white">PTT Where's Waldo?</h3>
       <div align="center">  
-         <a href="https://github.com/eltonbautista/ptt-waldo-app" target=_"blank">
+         <a href="https://ptt-waldo.netlify.app/" target=_"blank">
             <img src="https://user-images.githubusercontent.com/94667178/172160655-bf218bd8-36a0-4094-b84e-55b526d94ad0.png" alt="PTT Where's Waldo" width="100%"/>
          </a>
          <br>
@@ -55,7 +55,7 @@
       <h3 align="center" color="white">CV Application Creator</h3>
       <div align="center">  
          <a href='' target=_"blank">
-            <img src="https://user-images.githubusercontent.com/94667178/166822641-f1609517-0ed6-431f-9292-0a68f0013eb7.png" alt="Twitter Clone" width="80%"/>
+            <img src="https://user-images.githubusercontent.com/94667178/166822641-f1609517-0ed6-431f-9292-0a68f0013eb7.png" alt="CV Application" width="80%"/>
          </a>
          <br>
          <br>
@@ -74,7 +74,7 @@
    <td width="50%">
       <h3 align="center" color="white">Weather Application</h3>
       <div align="center">  
-         <a href="https://github.com/superbahbi/Corkify" target=_"blank">
+         <a href="https://eltonbautista.github.io/odin-weather-app/" target=_"blank">
             <img src="https://user-images.githubusercontent.com/94667178/161541267-2ea13e17-ef8d-4aae-a0a2-fc4963508741.png" alt="Weather App" width="100%"/>
          </a>
          <br>
@@ -83,7 +83,7 @@
             <a href="https://github.com/eltonbautista/odin-weather-app" target="_blank">
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="" target="_blank">
+            <a href="https://eltonbautista.github.io/odin-weather-app/" target="_blank">
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
@@ -95,7 +95,7 @@
    <td width="50%">
       <h3 align="center" color="white">Valorant Memory Card</h3>
       <div align="center">  
-         <a href='https://wordle.bahbi.net' target=_"blank">
+         <a href='https://eltonbautista.github.io/memory-card/' target=_"blank">
             <img src="https://user-images.githubusercontent.com/94667178/168144079-089ae736-622b-4537-837b-ad5834d1753a.png" alt="Valorant Memory Card Game" width="90%"/>
          </a>
          <br>
@@ -139,7 +139,7 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eltonbautista&hide_border=true&background=FFFFFF00&fire=3C005A&currStreakLabel=3C005A&ring=3C005A&currStreakNum=3C005A&sideNums=3C005A&sideLabels=3C005A&dates=999c9e&stroke=3C005A">
+<img src="https://eltonbautista.github.io/odin-restaurant-page/?user=eltonbautista&hide_border=true&background=FFFFFF00&fire=3C005A&currStreakLabel=3C005A&ring=3C005A&currStreakNum=3C005A&sideNums=3C005A&sideLabels=3C005A&dates=999c9e&stroke=3C005A">
 </td>
 <td width="50%">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=eltonbautista&bg_color=FFFFFF00&hide_border=true&text_color=3C005A&title_color=3C005A&include_all_commits=true&count_private=true">
