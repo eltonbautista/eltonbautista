@@ -135,18 +135,19 @@
 </table>
 
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Metrics & Analysis</h2>
+<h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Metrics & Analytics</h2>
 <div align="center">
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eltonbautista&hide_border=true&background=FFFFFF00&fire=3C005A&currStreakLabel=3C005A&ring=3C005A&currStreakNum=3C005A&sideNums=3C005A&sideLabels=3C005A&dates=999c9e&stroke=3C005A">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eltonbautista&hide_border=true&background=FFFFFF00&fire=e25822&currStreakLabel=999c9e&ring=9b69b4&currStreakNum=999c9e&sideNums=9b69b4&sideLabels=999c9e&dates=999c9e&stroke=9b69b4">
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=eltonbautista&bg_color=FFFFFF00&hide_border=true&text_color=3C005A&title_color=3C005A&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=eltonbautista&bg_color=FFFFFF00&hide_border=true&text_color=999c9e&title_color=9b69b4&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=eltonbautista&bg_color=FFFFFF00&color=3C005A&line=3C005A&point=999c9e&hide_border=true&title_color=">
+<img src="https://activity-graph.herokuapp.com/graph?username=eltonbautista&bg_color=FFFFFF00&color=999c9e&line=9b69b4&point=9b69b4&hide_border=true&title_color=999c9e">
+
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Technical Skills</h2>
 <p align="center">
@@ -169,11 +170,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eltonbautista&label=Profile%20views&color=3C005A&style=for-the-badge&logo=profile&logoColor=white_" alt="lizx-i" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eltonbautista&v=2" height=250 >
-  
-</p>
-
-
-  
-<!--
-**eltonbautista/eltonbautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eltonbautista&v=2" height=250 ></p>
