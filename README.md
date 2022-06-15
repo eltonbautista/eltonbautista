@@ -14,7 +14,7 @@
       <h3 align="center" color="white">Meemo Boutique</h3>
       <div align="center">  
          <a href='https://meemo-boutique.netlify.app/' target=_"blank">
-            <img src="https://user-images.githubusercontent.com/94667178/173407886-0d70f739-9d3d-4541-acd2-c39caeac2aa7.png" alt="Meemo Boutique" width="80%"/>
+            <img src="https://user-images.githubusercontent.com/94667178/173407886-0d70f739-9d3d-4541-acd2-c39caeac2aa7.png" alt="Meemo Boutique" width="75%"/>
          </a>
          <br>
          <br>
@@ -116,7 +116,7 @@
       <h3 align="center" color="white">The Restaurant Place</h3>
       <div align="center">  
          <a href="https://eltonbautista.github.io/odin-restaurant-page/" target=_"blank">
-            <img src="https://user-images.githubusercontent.com/94667178/173412501-a5a739a1-b71d-4474-b64a-13a10f5b0044.png" alt="Valorant Memory Card Game" width="90%"/>
+            <img src="https://user-images.githubusercontent.com/94667178/173412501-a5a739a1-b71d-4474-b64a-13a10f5b0044.png" alt="Valorant Memory Card Game" width="83%"/>
          </a>
          <br>
          <br>
@@ -128,7 +128,7 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>Webpack/JS</strong> — A simple restaurant page that I built to practice bundling with Webpack, page transitioning  logic, and strictly writing/creating HTML elements inside of JavaScript rather than a separate HTML file, very interesting. Built with: JS, Webpack, CSS3, HTML5.</p>
+         <p><strong>Webpack/JS</strong> — A simple restaurant page that I built to practice bundling with Webpack, page transitioning  logic, and strictly writing/creating HTML elements inside of JavaScript rather than a separate HTML file. Built with: JS, Webpack, CSS3, HTML5.</p>
       </div>
    </td>
    </tr>
