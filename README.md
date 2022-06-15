@@ -115,7 +115,7 @@
    <td width="50%">
       <h3 align="center" color="white">The Restaurant Place</h3>
       <div align="center">  
-         <a href="https://github.com/superbahbi/barbarian-memory" target=_"blank">
+         <a href="https://eltonbautista.github.io/odin-restaurant-page/" target=_"blank">
             <img src="https://user-images.githubusercontent.com/94667178/173412501-a5a739a1-b71d-4474-b64a-13a10f5b0044.png" alt="Valorant Memory Card Game" width="90%"/>
          </a>
          <br>
