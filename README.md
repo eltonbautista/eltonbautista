@@ -3,7 +3,6 @@
 - 🙆‍ I graduated university with a BSc. in Psychology and have a great interest in all things related to how people think, and act. My main focus in my studies were interpersonal relationships and industrial/organizational psychology.
 - 💻 I'm an aspiring Full-Stack Developer!
 - 🌱 I’m currently learning Typescript, ReactJS, and NodeJS!
-- 🌐 You can see my some of my projects on [my portfolio](https://github.com/eltonbautista?tab=repositories)
 - 📫 How to reach me: <a href="https://twitter.com/psychtotech" target="_blank" rel="noopener">@PsychToTech</a> **||** <a href="https://www.linkedin.com/in/elton-bautista-496a011ab/" target="_blank" rel="noopener">LinkedIn</a>
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Projects</h2>
@@ -46,7 +45,7 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>BaaS</strong> — A photo-tagging game used to practice BaaS concepts, as well as learn security protocols, and further my knowledge on Rest APIS. The project features a custom profanity filter that I wrote myself which prevents users from adding a list of up to 450 words onto the scoreboard. Written with: ReactJS, Firebase, Jest, CSS3, HTML5</p>
+         <p><strong>BaaS</strong> — A photo-tagging game used to practice BaaS concepts, as well as learn security protocols, and further my knowledge on Rest APIS. The project features a custom profanity filter that I wrote myself which prevents users from adding a list of up to 450 words onto the scoreboard. Built with: ReactJS, Firebase, Jest, CSS3, HTML5</p>
       </div>
    </td>
    </tr>
@@ -67,7 +66,7 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>ReactJS: Classes Components</strong> — The first application I built with ReactJS using Classes components. Even though many code-bases have transitioned over to Functional components, or are in the process of doing so, I believe it was important for me to learn how to write a React app using Class components. A webpage that helps you create a modern day resume.</p>
+         <p><strong>ReactJS: Class Components</strong> — The first application I built with ReactJS using Class components. Even though many code-bases have transitioned over to Functional components, or are in the process of doing so, I believe it was important for me to learn how to write a React app using Class components. A webpage that helps you create a modern day resume.</p>
       </div>
    </td>
    
@@ -108,7 +107,8 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>ReactJS</strong> — A memory card game built with ReactJS, CSS3, and HTML5. This was my first time working with Functional components, hooks, and focusing on React state and lifecycle. This project was very fun to build and quite an intuitive process for me. </p>
+         <p><strong>ReactJS</strong> — A memory card game built with ReactJS, CSS3, and HTML5. This was my first time working with Functional components, hooks, and focusing on React state and lifecycle. Don't click the same character more than once!
+            </p>
       </div>
    </td>
    
