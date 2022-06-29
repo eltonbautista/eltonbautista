@@ -86,7 +86,7 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>Rest APIs</strong> — A weather application I built to practice Rest APIs, it that allows users to search for a city's current and weekly weather. This was my first time working with asynchronous processes, but it was a really intuitive and enjoyable experience. My biggest obstacle in this projeect was dealing with CORS errors. This project was written with: JavaScript, Webpack, CSS3, and HTML5.</p>
+         <p><strong>Rest APIs</strong> — A weather application I built to practice Rest APIs, it that allows users to search for a city's current and weekly weather. This was my first time working with asynchronous processes, but it was a really intuitive and enjoyable experience.  This project was built with: JavaScript, Webpack, CSS3, and HTML5. The APIs used are in the project's README.</p>
       </div>
    </td>
    </tr>
