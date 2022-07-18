@@ -10,6 +10,26 @@
 <table>
 <tr>
    <td width="50%">
+      <h3 align="center" color="white">clockedOut</h3>
+      <div align="center">  
+         <a href="https://github.com/eltonbautista/odin-restaurant-page" target=_"blank">
+            <img src="https://user-images.githubusercontent.com/94667178/179531990-f2281093-8ccc-4a0f-92cf-d449fa997145.png" alt="clockedOut screenshot" width="83%"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/eltonbautista/clockedOut" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://clocked-out.vercel.app/" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>Webpack/JS</strong> —clockedOut is a LinkedIn clone application that focuses on the social aspects of gaming. It is a one-stop destination for creating lifetime companions, and remembering our childhood nostalgia. Built with: TypeScript, ReactJS, Firebase, React Router, Jest, Styled-Components, CSS3, HTML5</p>
+      </div>
+   </td>
+
+   <td width="50%">
       <h3 align="center" color="white">Meemo Boutique</h3>
       <div align="center">  
          <a href='https://meemo-boutique.netlify.app/' target=_"blank">
@@ -29,6 +49,9 @@
       </div>
    </td>
    
+   
+   </tr>
+   <tr>
    <td width="50%">
       <h3 align="center" color="white">PTT Where's Waldo?</h3>
       <div align="center">  
@@ -48,28 +71,6 @@
          <p><strong>BaaS</strong> — A photo-tagging game used to practice BaaS concepts, as well as learn security protocols, and further my knowledge on Rest APIS. The project features a custom profanity filter that I wrote myself which prevents users from adding a list of up to 450 words onto the scoreboard. Built with: ReactJS, Firebase, Jest, CSS3, HTML5</p>
       </div>
    </td>
-   </tr>
-   <tr>
-   <td width="50%">
-      <h3 align="center" color="white">CV Application Creator</h3>
-      <div align="center">  
-         <a href='' target=_"blank">
-            <img src="https://user-images.githubusercontent.com/94667178/166822641-f1609517-0ed6-431f-9292-0a68f0013eb7.png" alt="CV Application" width="80%"/>
-         </a>
-         <br>
-         <br>
-         <p>
-            <a href="https://github.com/eltonbautista/odin-react-cv-application" target="_blank">
-               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://eltonbautista.github.io/odin-react-cv-application/" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
-            </a>
-         </p>
-         <p><strong>ReactJS: Class Components</strong> — The first application I built with ReactJS using Class components. Even though many code-bases have transitioned over to Functional components, or are in the process of doing so, I believe it was important for me to learn how to write a React app using Class components. A webpage that helps you create a modern day resume.</p>
-      </div>
-   </td>
-   
    <td width="50%">
       <h3 align="center" color="white">Weather Application</h3>
       <div align="center">  
@@ -111,24 +112,23 @@
             </p>
       </div>
    </td>
-   
    <td width="50%">
-      <h3 align="center" color="white">The Restaurant Place</h3>
+      <h3 align="center" color="white">CV Application Creator</h3>
       <div align="center">  
-         <a href="https://eltonbautista.github.io/odin-restaurant-page/" target=_"blank">
-            <img src="https://user-images.githubusercontent.com/94667178/173412501-a5a739a1-b71d-4474-b64a-13a10f5b0044.png" alt="Valorant Memory Card Game" width="83%"/>
+         <a href='' target=_"blank">
+            <img src="https://user-images.githubusercontent.com/94667178/166822641-f1609517-0ed6-431f-9292-0a68f0013eb7.png" alt="CV Application" width="80%"/>
          </a>
          <br>
          <br>
          <p>
-            <a href="https://github.com/eltonbautista/odin-restaurant-page" target="_blank">
+            <a href="https://github.com/eltonbautista/odin-react-cv-application" target="_blank">
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://eltonbautista.github.io/odin-restaurant-page/" target="_blank">
+            <a href="https://eltonbautista.github.io/odin-react-cv-application/" target="_blank">
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>Webpack/JS</strong> — A simple restaurant page that I built to practice bundling with Webpack, page transitioning  logic, and strictly writing/creating HTML elements inside of JavaScript rather than a separate HTML file. Built with: JS, Webpack, CSS3, HTML5.</p>
+         <p><strong>ReactJS: Class Components</strong> — The first application I built with ReactJS using Class components. Even though many code-bases have transitioned over to Functional components, or are in the process of doing so, I believe it was important for me to learn how to write a React app using Class components. A webpage that helps you create a modern day resume.</p>
       </div>
    </td>
    </tr>
