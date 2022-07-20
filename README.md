@@ -32,7 +32,7 @@
    <td width="50%">
       <h3 align="center" color="white">Meemo Boutique</h3>
       <div align="center">  
-         <a href='https://meemo-boutique.netlify.app/' target=_"blank">
+         <a href='https://meemo-boutique.vercel.app/' target=_"blank">
             <img src="https://user-images.githubusercontent.com/94667178/173407886-0d70f739-9d3d-4541-acd2-c39caeac2aa7.png" alt="Meemo Boutique" width="75%"/>
          </a>
          <br>
