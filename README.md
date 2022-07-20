@@ -10,8 +10,29 @@
 <table>
 <tr>
    <td width="50%">
-      <h3 align="center" color="white">clockedOut</h3>
+      <h3 align="center" color="white">Portfolio</h3>
       <div align="center">  
+         <a href='https://www.eltonbautista.com/' target=_"blank">
+            <img src="https://user-images.githubusercontent.com/94667178/180022224-af1a45b3-308a-473e-bdde-382e6c12f6dd.png" alt="Portfolio" width="90%"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/eltonbautista/portfolio" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://www.eltonbautista.com/" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>AstroJS</strong> — My very own portfolio! Ooo boy I've always wanted one and it's responsive!! Currently, it talks a bit about my, discipline, goals, etc. but also has information on who I am as an individual! I'm planning on updating it every so often with project pages, and will most likely be creating a blog section! At the moment it's fairly extensible, but I do have plans on improving it as it will be growing alongside me.
+            <em>Built with: AstroJS, ReactJS, TypeScript, JavaScript, HTML5, CSS5</em>
+            </p>
+      </div>
+   </td>
+   <td width="50%">
+      <h3 align="center" color="white">clockedOut</h3>
+      <div align="center">
          <a href="https://github.com/eltonbautista/odin-restaurant-page" target=_"blank">
             <img src="https://user-images.githubusercontent.com/94667178/179531990-f2281093-8ccc-4a0f-92cf-d449fa997145.png" alt="clockedOut screenshot" width="83%"/>
          </a>
@@ -25,11 +46,12 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>Webpack/JS</strong> —clockedOut is a LinkedIn clone application that focuses on the social aspects of gaming. It is a one-stop destination for creating lifetime companions, and remembering our childhood nostalgia. Built with: TypeScript, ReactJS, Firebase, React Router, Jest, Styled-Components, CSS3, HTML5</p>
+         <p><strong>Webpack/JS</strong> — clockedOut is a LinkedIn clone web application that focuses on the social aspects of gaming. It is a one-stop destination for creating lifetime companions, and remembering our childhood nostalgia. Well.. I haven't exactly implemented all of the features I initially aimed for.. The reason for this is because I've decided to do coding practices such as LeetCode and CodeWars to gain more confidence in my code. But don't be sad, I'll clock back into it soon! <em>Built with: TypeScript, ReactJS, Firebase, React Router, Jest, Styled-Components, CSS3, HTML5</em></p>
       </div>
    </td>
-
-   <td width="50%">
+   </tr>
+   <tr>
+      <td width="50%">
       <h3 align="center" color="white">Meemo Boutique</h3>
       <div align="center">  
          <a href='https://meemo-boutique.vercel.app/' target=_"blank">
@@ -45,13 +67,9 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>React Router</strong> — A shopping cart application that boasts a vintage, but modern neon aesthetic that is focused at uniting both  fashion lovers with old souls, and newcomers who aren't afraid to stand out and dare to be different. A single page application that utilizes React Router. Built with: ReactJS, React Router, Jest, CSS3, HTML5</p>
+         <p><strong>React Router</strong> — A shopping cart application that boasts a vintage, but modern neon aesthetic that is focused at uniting both  fashion lovers with old souls, and newcomers who aren't afraid to stand out and dare to be different. A single page application that utilizes React Router. <em>Built with: ReactJS, React Router, Jest, CSS3, HTML5</em></p>
       </div>
    </td>
-   
-   
-   </tr>
-   <tr>
    <td width="50%">
       <h3 align="center" color="white">PTT Where's Waldo?</h3>
       <div align="center">  
@@ -68,9 +86,11 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>BaaS</strong> — A photo-tagging game used to practice BaaS concepts, as well as learn security protocols, and further my knowledge on Rest APIS. The project features a custom profanity filter that I wrote myself which prevents users from adding a list of up to 450 words onto the scoreboard. Built with: ReactJS, Firebase, Jest, CSS3, HTML5</p>
+         <p><strong>BaaS</strong> — A photo-tagging game used to practice BaaS concepts, as well as learn security protocols, and further my knowledge on Rest APIS. The project features a custom profanity filter that I wrote myself which prevents users from adding a list of up to 450 words onto the scoreboard. <em>Built with: ReactJS, Firebase, Jest, CSS3, HTML5</em></p>
       </div>
    </td>
+   </tr>
+    <tr>
    <td width="50%">
       <h3 align="center" color="white">Weather Application</h3>
       <div align="center">  
@@ -87,31 +107,10 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>Rest APIs</strong> — A weather application I built to practice Rest APIs, it that allows users to search for a city's current and weekly weather. This was my first time working with asynchronous processes, but it was a really intuitive and enjoyable experience.  This project was built with: JavaScript, Webpack, CSS3, and HTML5. The APIs used are in the project's README.</p>
+         <p><strong>Rest APIs</strong> — A weather application I built to practice Rest APIs, it that allows users to search for a city's current and weekly weather. This was my first time working with asynchronous processes, but it was a really intuitive and enjoyable experience. <em>This project was built with: JavaScript, Webpack, CSS3, and HTML5.</em></p>
       </div>
    </td>
-   </tr>
-      <tr>
-   <td width="50%">
-      <h3 align="center" color="white">Valorant Memory Card</h3>
-      <div align="center">  
-         <a href='https://eltonbautista.github.io/memory-card/' target=_"blank">
-            <img src="https://user-images.githubusercontent.com/94667178/168144079-089ae736-622b-4537-837b-ad5834d1753a.png" alt="Valorant Memory Card Game" width="90%"/>
-         </a>
-         <br>
-         <br>
-         <p>
-            <a href="https://github.com/eltonbautista/memory-card" target="_blank">
-               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://eltonbautista.github.io/memory-card/" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
-            </a>
-         </p>
-         <p><strong>ReactJS</strong> — A memory card game built with ReactJS, CSS3, and HTML5. This was my first time working with Functional components, hooks, and focusing on React state and lifecycle. Don't click the same character more than once!
-            </p>
-      </div>
-   </td>
+       
    <td width="50%">
       <h3 align="center" color="white">CV Application Creator</h3>
       <div align="center">  
@@ -128,7 +127,7 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>ReactJS: Class Components</strong> — The first application I built with ReactJS using Class components. Even though many code-bases have transitioned over to Functional components, or are in the process of doing so, I believe it was important for me to learn how to write a React app using Class components. A webpage that helps you create a modern day resume.</p>
+         <p><strong>ReactJS: Class Components</strong> — The first application I built with ReactJS using Class components. Even though many code-bases have transitioned over to Functional components, or are in the process of doing so, I believe it was important for me to learn how to write a React app using Class components. <em>Built with: ReactJS, JavaScript, HTML5, CSS3</em></p>
       </div>
    </td>
    </tr>
