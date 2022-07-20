@@ -25,7 +25,7 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>AstroJS</strong> — My very own portfolio! Ooo boy I've always wanted one and it's responsive!! Currently, it talks a bit about my, discipline, goals, etc. but also has information on who I am as an individual! I'm planning on updating it every so often with project pages, and will most likely be creating a blog section! At the moment it's fairly extensible, but I do have plans on improving it as it will be growing alongside me.
+         <p><strong>AstroJS/TypeScript</strong> — My very own portfolio! Ooo boy I've always wanted one and it's responsive!! Currently, it talks a bit about my, discipline, goals, etc. but also has information on who I am as an individual! I'm planning on updating it every so often with project pages, and will most likely be creating a blog section! At the moment it's fairly extensible, but I do have plans on improving it as it will be growing alongside me.
             <em>Built with: AstroJS, ReactJS, TypeScript, JavaScript, HTML5, CSS5</em>
             </p>
       </div>
@@ -46,7 +46,7 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>React/TypeScript</strong> — clockedOut is a LinkedIn clone web application that focuses on the social aspects of gaming. It is a one-stop destination for creating lifetime companions, and remembering our childhood nostalgia. Well.. I haven't exactly implemented all of the features I initially aimed for.. The reason for this is because I've decided to do coding practices such as LeetCode and CodeWars to gain more confidence in my code. But don't be sad, I'll clock back into it soon! <em>Built with: TypeScript, ReactJS, Firebase, React Router, Jest, Styled-Components, CSS3, HTML5</em></p>
+         <p><strong>React/TS</strong> — clockedOut is a LinkedIn clone web application that focuses on the social aspects of gaming. It is a one-stop destination for creating lifetime companions, and remembering our childhood nostalgia. Well.. I haven't exactly implemented all of the features I initially aimed for.. The reason for this is because I've decided to do coding practices such as LeetCode and CodeWars to gain more confidence in my code. But don't be sad, I'll clock back into it soon! <em>Built with: TypeScript, ReactJS, Firebase, React Router, Jest, Styled-Components, CSS3, HTML5</em></p>
       </div>
    </td>
    </tr>
