@@ -2,7 +2,7 @@
 - 🔭 My name is Elton and I am an aspiring Full-Stack Developer who is passionate about learning new technologies and developing my skillset.
 - 🙆‍ I graduated university with a BSc. in Psychology and have a great interest in all things related to how people think, and act. My main focus in my studies were interpersonal relationships and industrial/organizational psychology.
 - 💻 I'm an aspiring Full-Stack Developer!
-- 🌱 I’m currently learning Typescript, ReactJS, and NodeJS!
+- 🌱 I’m currently learning Computer Science concepts, grinding DSA type problems, and NodeJS!
 - 📫 How to reach me: <a href="https://twitter.com/psychtotech" target="_blank" rel="noopener">@PsychToTech</a> **||** <a href="https://www.linkedin.com/in/elton-bautista-496a011ab/" target="_blank" rel="noopener">LinkedIn</a>
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Projects</h2>
