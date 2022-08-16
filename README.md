@@ -26,7 +26,7 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>Vue</strong> — A Single Page Application (SPA) built with Vue.js. Groomify takes a great deal of inspiration from Helcim https://www.helcim.com/. Through the project's design, copywriting, and teamwork aspect I hoped to capture and reflect Helcim's culture and values, while trying my best to maintain its own identity. <em>Built with: Vue.js, TypeScript, HTML, SCSS, Figma</em></p>
+         <p><strong>Vue/Figma/TS</strong> — A Single Page Application (SPA) built with Vue.js. Groomify takes a great deal of inspiration from Helcim https://www.helcim.com/. Through the project's design, copywriting, and teamwork aspect I hoped to capture and reflect Helcim's culture and values, while trying my best to maintain its own identity. <em>Built with: Vue.js, TypeScript, HTML, SCSS, Figma</em></p>
       </div>
    </td>
    
