@@ -39,7 +39,7 @@
          <br>
          <br>
          <p>
-            <a href="https://github.com/eltonbautista/portfolio" target="_blank">
+            <a href="https://github.com/eltonbautista/designer" target="_blank">
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://www.eltonbautista.com/" target="_blank">
