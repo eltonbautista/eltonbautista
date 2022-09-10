@@ -29,12 +29,12 @@
          <p><strong>Vue/Figma/TS</strong> — A Single Page Application (SPA) built with Vue.js. Groomify takes a great deal of inspiration from Helcim https://www.helcim.com/. Through the project's design, copywriting, and teamwork aspect I hoped to capture and reflect Helcim's culture and values, while trying my best to maintain its own identity. <em>Built with: Vue.js, TypeScript, HTML, SCSS, Figma</em></p>
       </div>
    </td>
-   
+
    <td width="50%">
       <h3 align="center" color="white">Portfolio</h3>
       <div align="center">  
          <a href='https://www.eltonbautista.com/' target=_"blank">
-            <img src="https://user-images.githubusercontent.com/94667178/180022224-af1a45b3-308a-473e-bdde-382e6c12f6dd.png" alt="Portfolio" width="100%"/>
+            <img src="https://user-images.githubusercontent.com/94667178/189492117-2e293a69-ce0d-40e6-98b5-3295fb73451f.png" alt="Portfolio" width="100%"/>
          </a>
          <br>
          <br>
@@ -46,8 +46,8 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>AstroJS/TypeScript</strong> — My very own portfolio! Ooo boy I've always wanted one and it's responsive.. Mostly..! Currently, it talks a bit about my, discipline, goals, etc. but also has information on who I am as an individual! I'm planning on updating it every so often with project pages, and will most likely be creating a blog section!
-            <em>Built with: AstroJS, ReactJS, TypeScript, JavaScript, HTML5, CSS5</em>
+         <p><strong>AstroJS/TypeScript</strong> — My very own portfolio! Ooo boy I've always wanted one and it's quite responsive! An artistic approach/design that utilises a unique color palette that works! I'm planning on updating it every so often with project pages, and will most likely be creating a blog section!
+            <em>Built with: AstroJS, Tailwind CSS, AnimXYZ, JavaScript, TypeScript, HTML5, DaisyUI</em>
             </p>
       </div>
    </td>
