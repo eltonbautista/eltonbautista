@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning Computer Science concepts, grinding DSA type problems, and NodeJS!
 - 📫 How to reach me: <a href="https://twitter.com/psychtotech" target="_blank" rel="noopener">@PsychToTech</a> **||** <a href="https://www.linkedin.com/in/elton-bautista-496a011ab/" target="_blank" rel="noopener">LinkedIn</a>
 
+[![@elton's Holopin board](https://holopin.io/api/user/board?user=psychtotech)](https://holopin.io/@psychtotech)
+
 <h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Projects</h2>
 
 <table>
