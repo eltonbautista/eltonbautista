@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 My name is Elton and I am a FE Developer who is passionate about learning new technologies and developing my skillset.
-- 🙆‍ I graduated university with a BSc. in Psychology and have a great interest in all things related to how people think, and act. My main focus in my studies were interpersonal relationships and industrial/organizational psychology.
+- 🙆‍ I graduated from university with a BSc in Psychology and have a keen interest in everything related to how people think and act. My primary focus during my studies was on interpersonal relationships and industrial/organizational psychology.
 - 💻 I'm an aspiring Full-Stack Developer!
 - 🌱 I’m currently learning Computer Science concepts, grinding DSA type problems, and NodeJS!
 <!-- - 📫 How to reach me: <a href="https://twitter.com/psychtotech" target="_blank" rel="noopener">@PsychToTech</a> **||** <a href="https://www.linkedin.com/in/eltonbautista/" target="_blank" rel="noopener">LinkedIn</a> -->
